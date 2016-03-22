@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/features/features.iml" filepath="$PROJECT_DIR$/features/features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmaps-gateway.iml" filepath="$PROJECT_DIR$/gmaps-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmaps-gateway-api/gmaps-gateway-api.iml" filepath="$PROJECT_DIR$/gmaps-gateway-api/gmaps-gateway-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmaps-gateway-impl/gmaps-gateway-impl.iml" filepath="$PROJECT_DIR$/gmaps-gateway-impl/gmaps-gateway-impl.iml" />
+    </modules>
+  </component>
+</project>
